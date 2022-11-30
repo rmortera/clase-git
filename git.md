@@ -27,8 +27,10 @@ Lugar donde se almacenan los cambios
 
 git init - Inicializa un repositorio vacio, Crea una carpeta oculta en el proyecto llama '.git'
 
-git status - Nos da informacio sobre el estado del repositorio
+git status - Nos da informacion sobre el estado del repositorio
 git add -A - Agrega todos los archuivos que se encuentren
+
+git checkout -b "
 
 github
 Plataforma
