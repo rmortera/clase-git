@@ -27,8 +27,19 @@ Lugar donde se almacenan los cambios
 
 git init - Inicializa un repositorio vacio, Crea una carpeta oculta en el proyecto llama '.git'
 
+<<<<<<< HEAD
 git status - Nos da informacion sobre el estado del repositorio
 git add -A - Agrega todos los archuivos que se encuentren
+=======
+git status - Nos da informacio sobre el estado del repositorio.
+
+git add -A - Agrega todos los archuivos que se encuentren en el working directory al staging area.
+
+git commit -m "mensaje de commit": Genera un commit. Guarda todo lo que se encuentra en el staging area en el repositorio local.
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your name"
+>>>>>>> develop
 
 git checkout -b "
 
